@@ -33,7 +33,7 @@
 namespace Core {
 namespace Constants {
 
-const char * const GCS_NAME              = "Tau Labs GCS";
+const char * const GCS_NAME              = "Core FrameWork GCS";
 const char * const GCS_AUTHOR            = "Tau Labs";
 const char t []                          = __DATE__;
 const char * const GCS_YEAR              = t + 7;
